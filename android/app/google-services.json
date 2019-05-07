@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "727614306210",
+    "firebase_url": "https://ml-demo-b35c9.firebaseio.com",
+    "project_id": "ml-demo-b35c9",
+    "storage_bucket": "ml-demo-b35c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727614306210:android:b360e71f5f7d3272",
+        "android_client_info": {
+          "package_name": "com.example.ml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727614306210-g4171im2r110qhg0aef04uf3slqgn71o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvEFrDJ3JblZDN-bLFLfCYttj6nU2Nrvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727614306210-g4171im2r110qhg0aef04uf3slqgn71o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
